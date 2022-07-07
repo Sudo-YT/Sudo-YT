@@ -11,4 +11,7 @@
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 
 ## Socials
-[test](sudok.xyz)
+[- Youtube](https://www.youtube.com/c/Sudos)
+[- Instagram](https://www.instagram.com/will713_/)
+[- Music Playlist](https://soundcloud.com/rzfj/likes)
+[- TikTok](https://www.tiktok.com/@cummrxo)
