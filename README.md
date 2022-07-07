@@ -12,6 +12,9 @@
 
 ## Socials
 [- Youtube](https://www.youtube.com/c/Sudos)
+<br>
 [- Instagram](https://www.instagram.com/will713_/)
+<br>
 [- Music Playlist](https://soundcloud.com/rzfj/likes)
+<br>
 [- TikTok](https://www.tiktok.com/@cummrxo)
