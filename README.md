@@ -1,4 +1,4 @@
-# Hello! Welcome to Sudo's profile 👋
+Welcome to Sudo's profile 👋
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Sudo-YT&show_icons=true&theme=radical" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudo-YT&layout=compact&theme=radical" />
