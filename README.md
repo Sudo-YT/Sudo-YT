@@ -11,7 +11,7 @@ Welcome to Sudo's profile 👋
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 
 ## Socials
-[- Youtube](https://www.youtube.com/c/Sudos)
+[- YouTube](https://www.youtube.com/c/Sudos)
 <br>
 [- Instagram](https://www.instagram.com/will713_/)
 <br>
