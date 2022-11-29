@@ -13,7 +13,7 @@ Welcome to Sudo's profile 👋
 ## Socials
 [- YouTube](https://www.youtube.com/c/Sudos)
 <br>
-[- Instagram](https://www.instagram.com/znrcq/)
+[- Instagram](https://www.instagram.com/destr0_y/)
 <br>
 [- Music Playlist](https://soundcloud.com/rzfj/likes)
 <br>
