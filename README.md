@@ -15,6 +15,6 @@ Welcome to Sudo's profile 👋
 <br>
 [- Instagram](https://www.instagram.com/destr0_y/)
 <br>
-[- Music Playlist](https://soundcloud.com/rzfj/likes)
-<br>
 [- TikTok](https://www.tiktok.com/@cummrxo)
+<br>
+[- Music Playlist](https://soundcloud.com/rzfj/likes)
