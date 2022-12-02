@@ -1,8 +1,6 @@
 <h1>Welcome to my profile!</h1>
 
-<img align="left" width="44%" src="https://github-readme-stats.vercel.app/api?username=Sudo-YT&show_icons=true&theme=radical" />
-
-<br><br><br><br><br><br><br><br>
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=Sudo-YT&show_icons=true&theme=radical" />
 
 ## Favorite programming languages
 <img align="left" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
@@ -11,9 +9,6 @@
 
 ## Socials
 [- YouTube](https://www.youtube.com/c/Sudos)
-<br>
 [- Instagram](https://www.instagram.com/destr0_y/)
-<br>
 [- TikTok](https://www.tiktok.com/@cummrxo)
-<br>
 [- Music Playlist](https://soundcloud.com/rzfj/likes)
