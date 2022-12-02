@@ -1,4 +1,4 @@
-<img align="left" width="55%" src="https://github-readme-stats.vercel.app/api?username=Sudo-YT&show_icons=true&theme=radical"/>
+<img align="left" width="57%" src="https://github-readme-stats.vercel.app/api?username=Sudo-YT&show_icons=true&theme=radical"/>
 
 ## Programming languages
 <img align="left" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
