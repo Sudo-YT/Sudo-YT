@@ -9,6 +9,6 @@
 
 ## Socials 
 [YouTube](https://www.youtube.com/c/Sudos)
-[- Instagram](https://www.instagram.com/destr0_y/)
+[- Instagram](https://www.instagram.com/RiccOwns/)
 [- TikTok](https://www.tiktok.com/@cummrxo)
 [- Music Playlist](https://soundcloud.com/rzfj/likes)
