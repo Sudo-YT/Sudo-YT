@@ -8,7 +8,6 @@
 <br>
 
 ## Socials 
-[YouTube](https://www.youtube.com/c/Sudos)
-[- Instagram](https://www.instagram.com/RiccOwns/)
-[- TikTok](https://www.tiktok.com/@cummrxo)
-[- Music Playlist](https://soundcloud.com/rzfj/likes)
+[YouTube](https://www.youtube.com/c/Sudos) -
+[Instagram](https://www.instagram.com/RiccOwns/) -
+[Music Playlist](https://soundcloud.com/rzfj/likes)
