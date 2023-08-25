@@ -10,4 +10,3 @@
 ## Socials 
 [YouTube](https://www.youtube.com/c/Sudos) -
 [Instagram](https://www.instagram.com/1wokman/) -
-[Music Playlist](https://soundcloud.com/rzfj/likes)
