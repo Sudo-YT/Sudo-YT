@@ -9,4 +9,4 @@
 
 ## Socials 
 [YouTube](https://www.youtube.com/c/Sudos) -
-[Instagram](https://www.instagram.com/1wokman/) 
+[Instagram](https://www.instagram.com/2baseed/) 
