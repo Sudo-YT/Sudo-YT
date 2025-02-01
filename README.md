@@ -9,4 +9,4 @@
 
 ## Socials 
 [YouTube](https://www.youtube.com/c/Sudos) -
-[Instagram](https://www.instagram.com/2baseed/) 
+[Instagram](https://www.instagram.com/qleu/) 
